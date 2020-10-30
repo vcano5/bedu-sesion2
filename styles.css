@@ -1,0 +1,56 @@
+li {
+    display: inline;
+    
+    padding-right: 15px;
+}
+
+li a {
+    color: #025157;
+}
+
+.header {
+    display: flex;
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: sans-serif;
+    height: 45px;
+    
+    margin-left: 25px;
+    margin-right: 25px;
+
+    
+}
+
+.navbar {
+    width: 70%;
+    text-align: center;
+    
+}
+
+.acciones {
+    width: 15%;
+    display: inline;
+    text-align: right;
+    font-size: 14px;
+
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.acciones a {
+    color: #67b54b;
+}
+
+.acciones button {
+    color: white;
+    background-color: #67b54b;
+
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+
+    border: 0px;
+    border-radius: 5px;
+}
